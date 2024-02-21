@@ -1,2 +1,1 @@
-# .github
-Public Readme
+Hey! Welcome to ExWeiv!
