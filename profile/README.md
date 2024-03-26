@@ -10,4 +10,4 @@ Recent Updates to Public Repos:
 
 ---
 
-<img src="https://static.wixstatic.com/shapes/510eca_43b52053314d4ad689df41b907baef42.svg" width="120px">
+<img src="https://static.wixstatic.com/media/510eca_399a582544de4cb2b958ce934578097f~mv2.png">
